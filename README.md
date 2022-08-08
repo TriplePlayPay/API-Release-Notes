@@ -1,5 +1,5 @@
 # TriplePlayPay OpenAPI SDK
-API Release Notes and openapi SDK downloads. 
+API Release Notes and openapi SDK source files. 
 
 For API docs:
 https://tripleplaypay.com/api
