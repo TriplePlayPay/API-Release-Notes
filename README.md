@@ -6,3 +6,6 @@ https://tripleplaypay.com/api
 
 For iFrame integration:
 https://tripleplaypay.com/triple
+
+To Enroll:
+https://3playpay.com/partnership/
