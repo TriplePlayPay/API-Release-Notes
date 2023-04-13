@@ -1,11 +1,8 @@
 # TriplePlayPay OpenAPI SDK
 API Release Notes and openapi SDK source files. 
 
-For API docs:
+For Developer Documentation (iframe + API + much, much more):
 https://tripleplaypay.com/api
 
-For iFrame integration:
-https://tripleplaypay.com/triple
-
-To Enroll:
-https://3playpay.com/partnership/
+To Request Enrollment:
+https://tripleplaypay.com/contact
